@@ -1,7 +1,7 @@
 {
   "name": "@ubergrape/websocket-buffering",
   "description": "small wrapper around websocket that does message buffering and reconnects",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "keywords": [
     "websocket"
   ],
