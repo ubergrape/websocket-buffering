@@ -2,7 +2,9 @@
   "name": "websocket-buffering",
   "description": "small wrapper around websocket that does message buffering and reconnects",
   "version": "0.0.2",
-  "keywords": ["websocket"],
+  "keywords": [
+    "websocket"
+  ],
   "main": "./index",
   "maintainers": [
     "Arpad Borsos <arpad.borsos@googlemail.com> (http://swatinem.de)"
