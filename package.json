@@ -1,5 +1,5 @@
 {
-  "name": "websocket-buffering",
+  "name": "@ubergrape/websocket-buffering",
   "description": "small wrapper around websocket that does message buffering and reconnects",
   "version": "0.0.2",
   "keywords": [
@@ -23,6 +23,17 @@
   "scripts": {
     "test": "make test-coveralls"
   },
-  "repository": "git://github.com/Swatinem/websocket-buffering.git",
-  "license": "LGPLv3"
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Swatinem/websocket-buffering.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Swatinem/websocket-buffering/issues"
+  },
+  "homepage": "https://github.com/Swatinem/websocket-buffering#readme",
+  "directories": {
+    "test": "test"
+  },
+  "author": ""
 }
